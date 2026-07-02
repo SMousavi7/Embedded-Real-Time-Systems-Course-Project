@@ -67,6 +67,9 @@ Several simulations were performed using different controller parameters to eval
 
 ```text
 models/
+requirements/
+generated code/
+tests/
 reports/
 images/
 README.md
