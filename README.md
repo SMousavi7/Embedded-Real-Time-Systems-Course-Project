@@ -90,3 +90,13 @@ The repository includes simulation outputs illustrating:
 ## Educational Purpose
 
 This repository was developed as part of the Embedded and Real-Time Systems course and demonstrates the application of Model-Based Design techniques for embedded control systems, verification, and safety-oriented development.
+
+## Authors
+
+This project was collaboratively designed and implemented by:
+
+* **Seyed Sadra Mousavi(SMousavi7)**
+* **Farzin Haj Gholamrezaei(F4rzin)**
+
+The project was developed as part of the **Fundamentals of Embedded and Real-Time Systems** course using a Model-Based Design workflow with MATLAB Simulink and Stateflow.
+
